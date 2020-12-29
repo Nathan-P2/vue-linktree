@@ -5,9 +5,8 @@
     <b-container fluid align='center' class="slide-in-left">
       <b-row>
         <b-col xl="6">
-          <b-img class="mt-5" src="https://avataaars.io/?avatarStyle=Circle&topType=ShortHairShortCurly&accessoriesType=Prescription02&hairColor=Black&facialHairType=Blank&clotheType=Hoodie&clotheColor=White&eyeType=Close&eyebrowType=RaisedExcited&mouthType=Default&skinColor=Brown
-            " fluid alt="Responsive image">
-          </b-img>
+          <img class="avatar mt-5" src="./assets/avataaars.png" alt="Responsive image">
+          <img>
           <h2>
             <strong>
               <p class="name mt-3">Nathan Pereira</p>
@@ -164,5 +163,8 @@
   }
 }
 
+.avatar {
+  max-width: 40%;
+}
 
 </style>
