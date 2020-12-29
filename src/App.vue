@@ -55,9 +55,7 @@
 
 <script>
   export default {
-    created() {
-      document.title="Nathan Pereira"
-    }
+    
   }
 </script>
 
